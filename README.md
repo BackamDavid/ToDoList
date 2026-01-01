@@ -20,7 +20,7 @@ A simple and intuitive ToDo List application built with React and Vite. This app
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ToDoList.git
+   git clone https://github.com/BackamDavid/ToDoList.git
    cd ToDoList
    ```
 
